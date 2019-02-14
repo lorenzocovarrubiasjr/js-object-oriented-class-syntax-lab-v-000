@@ -24,3 +24,9 @@ class BoardMember(name, homeState, training) {
   }
 
 }
+
+class Ceo extends BoardMember {
+  hireEmployee() {
+    return "Welcome aboard!"
+  }
+}
