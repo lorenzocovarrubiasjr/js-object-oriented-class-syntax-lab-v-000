@@ -1,4 +1,4 @@
-class BoardMembers(name, homeState, training) {
+class BoardMember(name, homeState, training) {
   this.name = name
   this.homeState = homeState
   this.training = training
